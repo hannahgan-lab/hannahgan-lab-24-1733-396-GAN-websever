@@ -1,0 +1,14 @@
+Question 1: What happened when you refreshed the browser?
+    The web browser loaded for a while but it displayed the modifications I had made in the html file while the codespace is still booting.
+
+Question 2:What does the 200 status code indicate?
+    It indicated success.
+
+Question 3: What HTTP method appears in the server log?
+    "GET" method appeared alongside the file it requested
+
+Question 4: What file is requested when you open the root URL?
+    favicon.ico, and the root link is: https://fuzzy-umbrella-5gp6j55wj69g37ww-8000.app.github.dev/
+
+What I learned:
+    
